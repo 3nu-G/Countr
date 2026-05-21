@@ -2,7 +2,7 @@ import { Stack } from 'expo-router';
 import { PaperProvider, MD3LightTheme } from 'react-native-paper';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { SessionProvider, useSession } from '../context/SessionContext';
-import { FloatingBubbleView } from '@howljs/react-native-floating-bubble';
+import { FloatingBubbleView } from 'react-native-floating-bubble';
 import BubbleContent from '../components/BubbleContent';
 import { View, StyleSheet } from 'react-native';
 

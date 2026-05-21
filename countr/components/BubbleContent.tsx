@@ -8,7 +8,7 @@ import Animated, {
   runOnJS,
 } from 'react-native-reanimated';
 import { useSession } from '../context/SessionContext';
-import { hideFloatingBubble } from '@howljs/react-native-floating-bubble';
+import { hideFloatingBubble } from 'react-native-floating-bubble';
 import { Check, X } from 'lucide-react-native';
 import { useTheme } from 'react-native-paper';
 

@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useReducer, useEffect } from 'react';
 import { addSession, getAllSessions } from '../database/db';
-import { showFloatingBubble } from '@howljs/react-native-floating-bubble';
+import { showFloatingBubble } from 'react-native-floating-bubble';
 
 type SessionState = {
   isActive: boolean;
