@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Countr",
-    "slug": "countr",
+    "slug": "Counter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,11 @@
     },
     "plugins": [
       "expo-sqlite"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0d851b82-297d-4f6b-8588-764b1c8efa5f"
+      }
+    }
   }
 }
