@@ -12,9 +12,12 @@
     "expo": "~55.0.25",
     "expo-sqlite": "~55.0.16",
     "expo-status-bar": "~55.0.6",
+    "lucide-react-native": "^1.16.0",
     "react": "19.2.0",
     "react-native": "0.83.6",
+    "react-native-floating-bubble": "^1.0.12",
     "react-native-gesture-handler": "~2.30.0",
+    "react-native-paper": "^5.15.2",
     "react-native-reanimated": "4.2.1"
   },
   "devDependencies": {
