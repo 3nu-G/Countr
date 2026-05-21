@@ -1,7 +1,7 @@
 {
-  "name": "countr",
+  "name": "tempexpo",
   "version": "1.0.0",
-  "main": "expo-router/entry",
+  "main": "index.ts",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -9,26 +9,17 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~51.0.0",
-    "expo-router": "~3.5.0",
-    "expo-sqlite": "~14.0.0",
-    "expo-status-bar": "~1.12.0",
-    "react": "18.2.0",
-    "react-native": "0.74.0",
-    "react-native-gesture-handler": "~2.14.0",
-    "react-native-paper": "^5.12.0",
-    "react-native-reanimated": "~3.6.0",
-    "react-native-safe-area-context": "4.8.0",
-    "react-native-screens": "3.30.0",
-    "@howljs/react-native-floating-bubble": "^1.1.0",
-    "lucide-react-native": "^0.400.0",
-    "react-dom": "18.2.0",
-    "@expo/vector-icons": "^14.0.0"
+    "expo": "~55.0.25",
+    "expo-sqlite": "~55.0.16",
+    "expo-status-bar": "~55.0.6",
+    "react": "19.2.0",
+    "react-native": "0.83.6",
+    "react-native-gesture-handler": "~2.30.0",
+    "react-native-reanimated": "4.2.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.0",
-    "@types/react": "~18.2.45",
-    "typescript": "~5.3.3"
+    "@types/react": "~19.2.2",
+    "typescript": "~5.9.2"
   },
   "private": true
 }
