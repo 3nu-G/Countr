@@ -25,7 +25,6 @@
       "permissions": ["SYSTEM_ALERT_WINDOW"]
     },
     "plugins": [
-      "@howljs/react-native-floating-bubble",
       "expo-sqlite"
     ]
   }
