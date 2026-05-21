@@ -8,15 +8,13 @@
       "distribution": "internal",
       "android": {
         "buildType": "apk"
-      },
-      "packageManager": "npm"
+      }
     },
     "production": {
       "distribution": "internal",
       "android": {
         "buildType": "apk"
-      },
-      "packageManager": "npm"
+      }
     }
   },
   "submit": {
